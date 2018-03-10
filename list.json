@@ -1,37 +1,37 @@
 [
 	{
-		"id": 0;
-		"name": "More Apps";
+		"id": 0,
+		"name": "More Apps",
 		"bin": "5aa365cd060f1f174e4fb5bc/3"
 	},
 	{
-		"id": 1;
-		"team": "Hala Madrid";
+		"id": 1,
+		"team": "Hala Madrid",
 		"bin": "5aa2109d93f2be174de368ae/3"
 	},
 	{
-		"id": 2;
-		"team": "AC Milan";
+		"id": 2,
+		"team": "AC Milan",
 		"bin": "5aa2381fdb89031763eb3d60/1"
 	},
 	{
-		"id": 3;
-		"team": "Paris Football";
+		"id": 3,
+		"team": "Paris Football",
 		"bin": "5aa23a137417a517644f16e9/1"
 	},
 	{
-		"id": 4;
-		"team": "Man United";
+		"id": 4,
+		"team": "Man United",
 		"bin": "5aa23e547417a517644f171f/1"
 	},
 	{
-		"id": 5;
-		"team": "Spring";
+		"id": 5,
+		"team": "Spring",
 		"bin": "5aa23db8db89031763eb3da4/1"
 	},
 	{
-		"id": 6;
-		"team": "iphone";
+		"id": 6,
+		"team": "iphone",
 		"bin": "5aa23d1d7417a517644f170f/1"
 	}
 ]
